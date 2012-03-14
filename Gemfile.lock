@@ -1,0 +1,12 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    hashie (1.2.0)
+    terminal-table (1.4.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  hashie
+  terminal-table
